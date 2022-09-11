@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(12, 12, 117);
+}
+
+
+
+
+h1{
+   color: #FEF2BF;
+   font-size: 3rem;
+   text-align: center;
+   font-weight: 100;
+   font-family: 'Press Start 2P', cursive;
+  
+}
+
+.btn{
+    height:150px;
+    width: 150px;
+    border-radius: 25px;
+    margin: 10px;
+    border-width:10px;
+    
+    
+    
+}
+
+.green{
+    background-color: green;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.set{
+    width:350px;
+    margin: auto;
+    
+}
+
+.blink{
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+
+.gameo{
+    background-color: red;
+
+}
